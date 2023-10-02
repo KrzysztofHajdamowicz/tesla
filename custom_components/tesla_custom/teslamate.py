@@ -380,3 +380,4 @@ class TeslaMate:
 
         charge_state = car._vehicle_data["charge_state"]
         charge_state[attr] = value
+
